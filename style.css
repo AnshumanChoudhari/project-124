@@ -1,0 +1,28 @@
+body{
+    background-color:linear-gradient(to right top, #f80000, rgb(255, 129, 12), #fffb00, #15ff00, #0099ff, #0004ff, #7700ff); float: none;border-radius: 15px;;
+}
+.heading{
+    font-size: xx-large;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px lime;
+    background-color:cyan;
+}
+.note{
+    font-size: large;
+    color: red;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: blueviolet;
+    color: black;
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
